@@ -19,7 +19,9 @@ tags:
 进入%HOME%目录，新建一个名为"_netrc"的文件，文件中内容格式如下：
 
 machine github.com
+
 login your-usernmae
+
 password your-password
 
 重新打开git bash即可，无需再输入用户名和密码
