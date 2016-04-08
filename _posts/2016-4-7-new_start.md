@@ -17,3 +17,5 @@ tags:
 macbook还是挺好用的，都不需要鼠标了。还有像linux那样的terminal。
 
 新环境要学的还是挺多的，好好学习哈～
+
+git clone的时候，最好用ssh协议，http文件大了容易断
