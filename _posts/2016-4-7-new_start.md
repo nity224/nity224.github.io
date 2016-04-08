@@ -19,3 +19,7 @@ macbook还是挺好用的，都不需要鼠标了。还有像linux那样的termi
 新环境要学的还是挺多的，好好学习哈～
 
 git clone的时候，最好用ssh协议，http文件大了容易断
+
+npm安装，sudo curl -L https://npmjs.org/install.sh | sh 失败
+提示权限问题，后来就直接用root用户安装了。
+和linux一样，sudo passwd设置root用户密码，su登录
