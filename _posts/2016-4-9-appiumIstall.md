@@ -35,7 +35,7 @@ export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
 
 解决办法：iOS Settings——>Advanced,勾选Use Native Instruments Library
 
-![](/images/iossettings.jpg
+![](/images/iossettings.jpg)
 
 ｛info: [debug] And launch timeouts (in ms): {"global":90000}
 info: [debug] [INST STDERR] dyld: could not load inserted library '/Applications/Appium.app/Contents/Resources/node_modules/appium/submodules/appium-instruments/thirdparty/iwd7/InstrumentsShim.dylib' because no suitable image found.  Did find:
